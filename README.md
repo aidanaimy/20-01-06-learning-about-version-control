@@ -1,2 +1,2 @@
 # 20-01-06-learning-about-version-control
-“Solving merge conflicts is easy!”
+Solving merge conflicts is easy!
